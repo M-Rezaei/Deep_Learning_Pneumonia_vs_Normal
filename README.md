@@ -1,4 +1,4 @@
-# Deep Learning  (dataset: Pneumonia)
+# Deep Learning  (Dataset: Pneumonia)
 In this project, I performed Convolutional neural network to identify patients with Pneumonia disease from their chest X-ray. The data set contains X-ray images of the chest of people with and without Pneumonia disease.  
 Here is the link to the dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
